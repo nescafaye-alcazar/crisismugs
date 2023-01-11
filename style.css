@@ -436,7 +436,6 @@ body {
     transform: rotate(0deg) scale(1);
   }
 }
-
 @keyframes rating-highlight {
   0% {
     transform: rotate(-10deg) scale(1.2);
